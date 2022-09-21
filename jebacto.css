@@ -1,0 +1,142 @@
+.main {
+    width: auto;
+    height: auto;
+    background-color: black;
+    background-image: linear-gradient(indigo, rgb(0, 0, 172));
+}
+.Bot{
+    background-color: rgba(76, 0, 130, 0.508);
+    margin: 0px;
+    margin-top: 50px;
+    color: #4d58d3;
+}
+h3{
+    text-align: left;
+    margin: 0px;
+}
+body {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.dc_button {
+    width: 130px;
+    height: 48px;
+    background-color: #5865F2;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    border-radius: 10px;
+}
+
+.team {
+    width: 900px;
+    height: fit-content;
+    font-size: 38px;
+    margin-top: 80px;
+    color: white;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+.Nidus{
+    width: min-content;
+    margin-left: 80px;
+    float: left;
+}
+.Clood{
+    width: min-content;
+    margin-left: 40px;
+    margin-right: 81px;
+    float: left;
+}
+.Majster{
+    width: min-content;
+    margin-left: 121px;
+    float: left;      
+}
+.Ares{
+    width: min-content;
+    margin-left: 40px;
+    margin-right: 81px;
+    float: left;
+}
+.Robus{
+    width: min-content;
+    margin-left: 121px;
+    float: left;      
+}
+.Akwar{
+    width: min-content;
+    margin-left: 80px;
+    float: left;
+}
+.TenChuj{
+    width: min-content;
+    margin-left: 40px;
+    margin-right: 81px;
+    float: left;
+}
+.Freks{
+    width: min-content;
+    margin-left: 80px;
+    float: left;
+}
+.Queercia{
+    width: min-content;
+    margin-left: 121px;
+    float: left;      
+}
+.discordlink {
+    line-height: 48px;
+    float: left;
+    margin: auto;
+}
+.osoby{
+    border-style: solid;  
+    width: 900px;
+    height: 850px;
+    background-image: linear-gradient(rgb(0, 0, 156),indigo);
+    border-radius: 10px;
+}
+.discordimage {
+    line-height: 64px;
+    height: 27px;
+    float: left;
+    margin: auto;
+}
+
+.dc_button:hover {
+    background-color: #4d58d3;
+}
+
+.top_bar {
+    width: 96px;
+    height: 96px;
+    margin: auto;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+a:hover {
+    color: lightgreen;
+}
