@@ -1,0 +1,143 @@
+.main {
+	background-color: black;
+	background-image: linear-gradient(indigo, rgb(0, 0, 172));
+	width: auto;
+	height: auto;
+}
+h3 {
+	margin: 0px;
+	text-align: left;
+}
+body {
+	margin: 0px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.top_bar {
+	align-items: center;
+	margin: auto;
+	width: 96px;
+	height: 96px;
+	text-align: center;
+	color: white;
+	font-size: 36px;
+}
+.regulamin {
+	float: left;
+	width: 96px;
+}
+.regulamin:hover {
+	color: rgb(181, 181, 181);
+}
+.dc_button {
+	margin-top: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 10px;
+	background-color: #5865F2;
+	width: 130px;
+	height: 48px;
+	text-align: center;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.dc_button:hover {
+	background-color: #4d58d3;
+}
+.discordlink {
+	float: left;
+	margin: auto;
+	line-height: 48px;
+}
+.discordimage {
+	float: left;
+	margin: auto;
+	height: 27px;
+	line-height: 64px;
+}
+.team {
+	margin-top: 80px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 900px;
+	height: fit-content;
+	text-align: center;
+	color: white;
+	font-size: 38px;
+}
+.osoby {
+	border-style: solid;
+	border-radius: 10px;
+	background-image: linear-gradient(rgb(0, 0, 156), indigo);
+	width: 900px;
+	height: 850px;
+}
+.Nidus {
+	float: left;
+	margin-left: 80px;
+	width: min-content;
+}
+.Clood {
+	float: left;
+	margin-right: 81px;
+	margin-left: 40px;
+	width: min-content;
+}
+.Majster {
+	float: left;
+	margin-left: 121px;
+	width: min-content;
+}
+.Ares {
+	float: left;
+	margin-right: 81px;
+	margin-left: 40px;
+	width: min-content;
+}
+.Robus {
+	float: left;
+	margin-left: 121px;
+	width: min-content;
+}
+.Akwar {
+	float: left;
+	margin-left: 80px;
+	width: min-content;
+}
+.TenChuj {
+	float: left;
+	margin-right: 81px;
+	margin-left: 40px;
+	width: min-content;
+}
+.Freks {
+	float: left;
+	margin-left: 80px;
+	width: min-content;
+}
+.Queercia {
+	float: left;
+	margin-left: 121px;
+	width: min-content;
+}
+.Bot {
+	margin: 0px;
+	margin-top: 50px;
+	background-color: rgba(76, 0, 130, 0.508);
+	color: #4d58d4;
+}
+a {
+	text-decoration: none;
+}
+a:link {
+	color: white;
+}
+a:visited {
+	color: white;
+}
+a:active {
+	color: white;
+}
+a:hover {
+	color: lightgreen;
+}
