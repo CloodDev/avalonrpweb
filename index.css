@@ -16,7 +16,7 @@ body {
 .top_bar {
 	align-items: center;
 	margin: auto;
-	width: 96px;
+	width: max-content;
 	height: 96px;
 	text-align: center;
 	color: white;
