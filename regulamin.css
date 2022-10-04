@@ -1,12 +1,19 @@
-.txt{
+#kat{   
+    text-align: center;
+    color: rgb(193, 193, 193);
+}
+a:hover{
+    color: rgb(193, 193, 193);      
+}
+a{
+    margin-left: auto;
+    margin-right: auto;
     text-align: left;
-}
-h1{
-    color: rgb(114, 114, 114);
-}
-h2{
     color: rgb(193, 193, 193);
+
 }
-h3{
-    color: rgb(193, 193, 193);
+
+.main{
+    height: 100vh;
+    background-image: linear-gradient(indigo, rgb(0, 0, 172));
 }
