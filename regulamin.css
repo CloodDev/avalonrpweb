@@ -1,19 +1,27 @@
-#kat{   
-    text-align: center;
-    color: rgb(193, 193, 193);
+#kat {
+	text-align: center;
+	color: rgb(193, 193, 193);
 }
-a:hover{
-    color: rgb(193, 193, 193);      
+a:hover {
+	color: rgb(193, 193, 193);
 }
-a{
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
-    color: rgb(193, 193, 193);
-
+a {
+	margin-top: 20px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	margin-left: 10px;
+	border: white;
+	border-right: 0px;
+	border-left: 0px;
+	border-style: solid;
+	
+	background-image: linear-gradient(indigo, rgb(0, 0, 172));
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	text-align: left;
+	color: rgb(193, 193, 193);
 }
-
-.main{
-    height: 100vh;
-    background-image: linear-gradient(indigo, rgb(0, 0, 172));
+.main {
+	background-image: linear-gradient(indigo, rgb(0, 0, 172));
+	height: 100vh;
 }
