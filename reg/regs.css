@@ -14,7 +14,6 @@
     margin-top: 50px;
     height: 48px;
     border-radius: 10px;
-
 }
 .backico{
     float: left;
@@ -27,4 +26,8 @@
     float: right;
 	line-height: 48px;
     margin-right: 5px;
+}
+.content{
+    text-align: left;
+    margin-left: 10px;
 }
