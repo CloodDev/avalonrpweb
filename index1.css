@@ -4,9 +4,15 @@
 	width: auto;
 	height: auto;
 }
+
 h3 {
 	margin: 0px;
 	text-align: left;
+}
+.content{
+	text-align: left;
+	color: lightgray;
+	margin-left: 20px;
 }
 body {
 	margin: 0px;
@@ -54,6 +60,7 @@ body {
 	background-color: #270096;
 	color: #4d58d4;
 }
+
 a {
 	text-decoration: none;
 }

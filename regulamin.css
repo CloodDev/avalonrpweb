@@ -2,25 +2,73 @@
 	text-align: center;
 	color: rgb(193, 193, 193);
 }
-a:hover {
-	color: rgb(193, 193, 193);
+.content{
+	width: 700px;
+	background-color: blue;
+	margin-left: auto;
+	margin-right: auto;
 }
-a {
+.button{
+	height: 48px;
+	width: 250px;
+	line-height: 48px;
 	margin-top: 20px;
 	margin-right: 10px;
-	margin-bottom: 20px;
 	margin-left: 10px;
-	border: white;
-	border-right: 0px;
-	border-left: 0px;
-	border-style: solid;
-	
-	background-image: linear-gradient(indigo, rgb(0, 0, 172));
-	background-repeat: no-repeat;
-    background-attachment: fixed;
-	text-align: left;
+	background-color: #5865F2;
+	border-radius: 20px;
+}
+.reg1{
+	float: left;
+	width: fit-content;
+}
+.reg2{
+	float: right;
+	width: fit-content;
+}
+.reg3{
+	float: left;
+	width: fit-content;
+}
+.reg4{
+	float: right;
+	width: fit-content;
+}
+.reg5{
+	float: left;
+	width: fit-content;
+}
+.reg6{
+	float: right;
+	width: fit-content;
+}
+.reg7{
+	float: left;
+	width: fit-content;
+}
+.reg8{
+	float: right;
+	width: fit-content;
+}
+.reg9{
+	float: left;
+	width: fit-content;
+}
+.reg10{
+	float: right;
+	width: fit-content;
+}
+.reg11{
+	margin-left: auto;
+	margin-right: auto;
+	float: right;
+	width: fit-content;
+}
+.button:hover {
+	background-color: #4a58ef;
 	color: rgb(193, 193, 193);
 }
+
 .main {
 	background-image: linear-gradient(indigo, rgb(0, 0, 172));
 	height: 100vh;
