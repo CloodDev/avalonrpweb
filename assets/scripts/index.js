@@ -1,0 +1,1 @@
+console.error('%cNIE TYKAJ TEGO', 'color: red; font-size: 48px;');
