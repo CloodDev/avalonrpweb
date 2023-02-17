@@ -3,6 +3,7 @@
     --FontColor: #ffffff;
     --FontHover: rgb(194, 194, 194);
     --TextShadow: #000;
+    --shopBgColor: #660070;
 }
 .RightPadding{
     width: 4px;
@@ -15,6 +16,11 @@ body{
 }
 #background{
     background-image: url(/resources/img/background.png);
+    height: 100vh;
+    margin: 0;
+}
+#backgroundShop{
+    background-image: url(/resources/img/backgroundShop.png);
     height: 100vh;
     margin: 0;
 }
