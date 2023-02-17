@@ -21,8 +21,10 @@ body{
 }
 #backgroundShop{
     background-image: url(/resources/img/backgroundShop.png);
-    height: 100vh;
+    height: 100%;
     margin: 0;
+    background-repeat: no-repeat;
+    background-color: var(--shopBgColor);
 }
 #fakemargines{
     margin-top: 8px;
