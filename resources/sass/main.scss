@@ -99,3 +99,121 @@ body{
     width: 384px;
     height: 384px;
 }
+
+#GridMainBox{
+    grid-template-columns: auto auto auto auto;
+    display: grid;
+    margin-left: 64px;
+    margin-right:  64px;
+    margin-top: 50%;
+    column-gap: 32px;
+    row-gap: 32px;
+}
+#GridBoxItem{
+    grid-template-columns: auto auto auto auto;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+    font-size: 28px;
+    border: 4px #340039;
+    background-color: #49004f;
+    border-radius: 64px;
+    border-style: solid;
+}
+#GridBoxItem:hover{
+    transform: scale(1.1,1.1);
+    transition-duration: 0.5s;    
+}
+#GridItemPrice{
+    font-size: 20px;
+}
+#ShopNameTagStuff{
+    font-family: Arial;
+    font-size: 48px;
+    color: white;
+    text-align: center;
+    margin-top: 50vh;
+    text-shadow: 4px 2px rgb(87, 87, 87);
+    width: auto;
+}
+#ShopPadding{
+    height: 86px;
+    width: 20px;
+}
+#ShopItemImg{
+    width: 256px;
+}
+#PaymentTutorial{
+    margin-top: 128px;
+    color:white;
+    font-family: Arial;
+    font-size: 26px;
+    text-align: center;
+}
+#HowToPay{
+    margin-top: 128px;
+    color:white;
+    font-family: Arial;
+    font-size: 26px;
+    text-align: center;
+}
+#WrongPayment{
+    margin-top: 128px;
+    color:white;
+    font-family: Arial;
+    font-size: 24px;
+    float: left;
+    width: min-content;
+    margin-left: 25ch;
+}
+#RightPayment{
+    margin-top: 128px;
+    color:white;
+    font-family: Arial;
+    font-size: 24px;
+    float: right;
+    width: min-content;
+    margin-right: 25ch;
+
+}
+#OtherPaymentTypes{
+    margin-top: 35vh;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#PaymentBlik{
+    margin: 0;
+}
+
+#PaymentPP{
+    margin: 0;
+}
+
+#PaymentPSC{
+    margin: 0;
+}
+#PaymentChuj{
+    width: 200px;
+    margin: 0%;
+}
+
+#Payment{
+    width: 512px;
+}
+a:hover{
+    color:white;
+    text-decoration: none;
+}
+a:visited{
+    color:white;
+    text-decoration: none;
+}
+a :active{
+    color:white;
+    text-decoration: none;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
